@@ -9,7 +9,7 @@
     """,
     "version": "12.0.0.1.1",
     "category": "Extra Tools",
-    'author': "Kevin Zhang",
+    'author': "odookz",
     'license': 'LGPL-3',
     'images': ['static/description/banner.png'],
     "depends": ['base','hr',],
